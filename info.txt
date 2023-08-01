@@ -1,0 +1,8 @@
+IP: 52.91.187.104
+54.84.163.144
+
+userame: ubuntu
+
+ssh file: song_maker.ppk
+
+api_key: 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
